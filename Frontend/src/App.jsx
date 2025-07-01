@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import {BrowserRouter as Router} from 'react-router-dom'
+import {HashRouter as Router} from 'react-router-dom'
 import Navbar from './components/Navbar'
 import HeroSection from './components/HeroSection'
 import Services from './components/Services'
